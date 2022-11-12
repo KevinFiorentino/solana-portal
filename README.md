@@ -10,7 +10,7 @@
 
 - `anchor build`
 - `solana address -k target/deploy/xxxxx-keypair.json`
-- Reemplace Program ID on `lib.rs` and `Anchor.toml`
+- Replace Program ID in `lib.rs` and `Anchor.toml`
 - `anchor build` (again)
 - `anchor deploy`
 
